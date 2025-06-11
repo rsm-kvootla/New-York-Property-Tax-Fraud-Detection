@@ -60,7 +60,10 @@ Python, Pandas, NumPy, Scikit-learn, TensorFlow (Keras), Matplotlib, Seaborn, Ju
 | `feature_engineering.ipynb`         | Creates ratios and normalized variables              |
 | `pca_autoencoder_modeling.ipynb`    | Implements PCA + Minkowski and Autoencoder methods   |
 | `visualizations.ipynb`              | Generates score plots, heatmaps, and bar charts      |
-| `NY Property data.csv`              | Original dataset                                     |
+
+## Data
+- For original data file, please contact me at kvootla@ucsd.edu (source: https://data.cityofnewyork.us/Housing-Development/Property-Valuation-and-Assessment-Data/rgy2-tti8)
+- A data dictionary is attached for your perusal 
 
 ## Key Outcomes
 
